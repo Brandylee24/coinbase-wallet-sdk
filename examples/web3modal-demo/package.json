@@ -8,7 +8,7 @@
   "dependencies": {
     "@chakra-ui/icons": "^2.0.2",
     "@chakra-ui/react": "^2.2.1",
-    "@coinbase/wallet-sdk": "^3.2.0",
+    "@coinbase/wallet-sdk": "^3.9.1",
     "@walletconnect/web3-provider": "^1.7.8",
     "assert": "^2.0.0",
     "buffer": "^6.0.3",
