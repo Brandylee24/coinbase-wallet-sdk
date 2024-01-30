@@ -19,7 +19,7 @@
     "react-dom": "^18.1.0",
     "stream-browserify": "^3.0.0",
     "stream-http": "^3.2.0",
-    "url": "^0.11.0",
+    "url": "^0.11.3",
     "util": "^0.12.4",
     "web3modal": "^1.9.7"
   },
