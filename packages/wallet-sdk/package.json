@@ -55,7 +55,7 @@
     "json-rpc-engine": "6.1.0",
     "keccak": "^3.0.1",
     "preact": "^10.5.9",
-    "qs": "^6.10.3",
+    "qs": "^6.11.2",
     "rxjs": "^6.6.3",
     "sha.js": "^2.4.11",
     "stream-browserify": "^3.0.0",
