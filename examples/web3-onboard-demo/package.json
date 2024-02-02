@@ -11,7 +11,7 @@
     "@coinbase/wallet-sdk": "^3.2.0",
     "@walletconnect/web3-provider": "^1.7.8",
     "@web3-onboard/coinbase": "^2.0.3",
-    "@web3-onboard/core": "^2.2.10",
+    "@web3-onboard/core": "^2.21.2",
     "@web3-onboard/injected-wallets": "^2.0.7",
     "@web3-onboard/walletconnect": "^2.0.1",
     "assert": "^2.0.0",
